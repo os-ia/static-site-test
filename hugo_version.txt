@@ -1,0 +1,1 @@
+hugo v0.92.0-B3549403+extended darwin/amd64 BuildDate=2022-01-12T08:23:18Z VendorInfo=gohugoio
