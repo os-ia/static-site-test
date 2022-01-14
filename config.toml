@@ -1,4 +1,4 @@
-baseURL = 'https://os-ia.github.io/static-site-test/'
+baseURL = 'https://os-ia.github.io/static-site-test'
 languageCode = 'en-us'
 title = 'Static Site'
 theme = 'ananke'
